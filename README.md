@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🤝 Merhaba! <br>👯Ben tutkulu bir geliştirici ve C# dili tutkunu olan Kağan EFE. <br>🔭Fikirlerimi hayata geçirmek için yenilikçi projeler üzerinde çalışmak. <br>🌱Teknolojinin arka ucunda ve ön ucunda sürekli olarak daha fazlasını <br>öğrenmek ve becerilerimi geliştirmek için çabalıyorum. <br>💬Programlama oyunumun seviyesini yükseltirken bu yolculukta bana katılın!<br>
+ 🤝 Merhaba! <br>👯Ben tutkulu bir geliştirici ve C# dili tutkunu olan Kağan EFE. <br>🔭Fikirlerimi hayata geçirmek için yenilikçi projeler üzerinde çalışmak. <br>🌱Teknolojinin arka ucunda ve ön ucunda sürekli olarak daha fazlasını <br>öğrenmek ve becerilerimi geliştirmek için çabalıyorum. <br>
 
 
 ## 🌐 Socials:
